@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".WelcomeActivity"
+    android:background="@color/cardview_light_background">
+  <ImageView
+      android:layout_width="300dp"
+      android:layout_height="100dp"
+      android:src="@drawable/chat"/>
+  <Button
+    android:id="@+id/welcome_login_btn"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Enter"
+      android:background="@color/design_default_color_primary_dark"
+      android:textStyle="bold"
+      android:textSize="20dp"
+      android:layout_marginLeft="25dp"
+      android:layout_marginRight="25dp"
+      android:layout_marginTop="40dp"/>
+  <Button
+      android:id="@+id/welcome_register_btn"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Registration"
+      android:background="@color/design_default_color_primary_dark"
+      android:textStyle="bold"
+      android:textSize="20dp"
+      android:layout_marginLeft="25dp"
+      android:layout_marginRight="25dp"
+      android:layout_marginTop="40dp"/>
+</LinearLayout>

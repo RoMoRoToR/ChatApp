@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609473911823",
+    "firebase_url": "https://testautorisation-5220a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "testautorisation-5220a",
+    "storage_bucket": "testautorisation-5220a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609473911823:android:cfa715eb07508f696f577a",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609473911823-ic5fusqqbn51fk04nvo7qun8fifp6sdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "7b0db3477d52c4033c3ed1167b8a677a4a3dc6fe"
+          }
+        },
+        {
+          "client_id": "609473911823-tv8219f6hq9dvo3hvdb34jjk0p7b89ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM4uEIFQP09bZt1j8-p58-Jhn8TPLyl9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609473911823-tv8219f6hq9dvo3hvdb34jjk0p7b89ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
